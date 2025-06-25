@@ -1,1 +1,156 @@
-
+feedback_text,category
+"The bridge needs immediate repairs.",Infrastructure
+"Streetlights in our area have not been working for weeks.",Infrastructure
+"The main road has severe cracks that make driving dangerous.",Infrastructure
+"Traffic signals are not synchronized, causing major jams.",Infrastructure
+"The newly constructed road is already developing potholes.",Infrastructure
+"Footpaths in residential areas are poorly maintained.",Infrastructure
+"The flyover construction is delayed, creating inconvenience.",Infrastructure
+"Many roads do not have pedestrian crossings.",Infrastructure
+"The traffic light on 5th avenue is broken for days.",Infrastructure
+"Street signs are missing in many neighborhoods.",Infrastructure
+"The parking lot near the mall is always overcrowded.",Infrastructure
+"Street repair work takes too long, causing traffic congestion.",Infrastructure
+"Open manholes on roads pose a serious risk to pedestrians.",Infrastructure
+"Insufficient lighting on highways increases the risk of accidents.",Infrastructure
+"Bridges in rural areas are in a state of disrepair.",Infrastructure
+"The city roads need better signboards and lane markings.",Infrastructure
+"Farmers struggle due to a lack of proper irrigation infrastructure.",Infrastructure
+"More public toilets should be constructed in urban areas.",Infrastructure
+"Nighttime lighting on major roads is insufficient.",Infrastructure
+"Traffic congestion has worsened near new commercial centers.",Infrastructure
+"Flooded streets during rains cause severe traffic disruptions.",Infrastructure
+"The main highway requires immediate resurfacing to prevent accidents.",Infrastructure
+"Lack of proper parking spaces leads to illegal parking in markets.",Infrastructure
+"Heavy traffic is a regular issue during office hours.",Infrastructure
+"The flyover design has safety issues that need to be addressed.",Infrastructure
+"Potholes on major highways are causing frequent accidents.",Infrastructure
+"Lack of pedestrian walkways near schools is a safety hazard.",Infrastructure
+"Residential roads are uneven and difficult to drive on.",Infrastructure
+"Bridge inspections are not conducted regularly, posing risks.",Infrastructure
+"The construction work on the bypass road is extremely slow.",Infrastructure
+"Bus stops have no proper shelters to protect from rain or heat.",Infrastructure
+"Waterlogging on roads after rains disrupts traffic heavily.",Infrastructure
+"Newly constructed footpaths are already breaking down.",Infrastructure
+"Roadside trees are being cut down for road expansion projects.",Infrastructure
+"No traffic signs are installed at critical junctions.",Infrastructure
+"Drainage covers on roads are broken and pose safety risks.",Infrastructure
+"Traffic barriers near schools are missing, endangering students.",Infrastructure
+"Cycling tracks in the city are poorly maintained.",Infrastructure
+"Road construction sites lack proper safety measures.",Infrastructure
+"Highways are not adequately lit, causing visibility issues.",Infrastructure
+"Roundabouts are poorly designed, leading to traffic chaos.",Infrastructure
+"The hospital lacks enough staff during emergencies.",Health
+"Sanitation in the clinic is below acceptable standards.",Health
+"Patients are forced to wait hours due to a shortage of doctors.",Health
+"The ambulance service is unreliable during emergencies.",Health
+"Vaccination drives in rural areas need better planning.",Health
+"Government hospitals have outdated equipment.",Health
+"Medicines are out of stock in many hospitals.",Health
+"The health department is understaffed and underfunded.",Health
+"Rural health clinics are severely underdeveloped.",Health
+"There is a lack of emergency medical services in small towns.",Health
+"The hospital emergency ward is overcrowded and chaotic.",Health
+"Lack of proper waste disposal near clinics attracts pests.",Health
+"Waiting times for surgeries in government hospitals are excessive.",Health
+"The rural health outreach programs lack sufficient funding.",Health
+"Vaccination drives are delayed due to a shortage of medical staff.",Health
+"Emergency services take too long to reach rural areas.",Health
+"Children in remote areas suffer due to lack of vaccinations.",Health
+"Community health centers are poorly equipped.",Health
+"Long waiting lists for medical procedures in public hospitals.",Health
+"Hospitals in suburban areas need specialized doctors.",Health
+"Healthcare workers demand better pay and working conditions.",Health
+"Specialist doctors are unavailable in rural health clinics.",Health
+"Medical waste management is poor in government hospitals.",Health
+"Private clinics charge exorbitant fees for basic treatments.",Health
+"Lack of affordable medicines in pharmacies affects patients.",Health
+"Ambulance response times are unacceptably high.",Health
+"Public health awareness programs are insufficiently promoted.",Health
+"Hospitals lack basic hygiene in operation theaters.",Health
+"Blood banks in rural areas are severely understocked.",Health
+"Mental health services are unavailable in most government clinics.",Health
+"Public buses often skip stops, leaving passengers stranded.",Transport
+"There are no proper routes for bicycles in the city.",Transport
+"The metro service frequently breaks down, delaying commuters.",Transport
+"Bus stops are poorly maintained and lack seating facilities.",Transport
+"Trains are always overcrowded, especially during peak hours.",Transport
+"The city needs more efficient public transport options.",Transport
+"Taxis and ride-sharing services are unreliable.",Transport
+"Road closures due to construction cause traffic jams.",Transport
+"There is no proper maintenance of railway stations.",Transport
+"Buses do not run on schedule, causing delays for passengers.",Transport
+"Commuters complain about poor air conditioning in buses during summer.",Transport
+"Metro stations lack sufficient escalators and elevators for accessibility.",Transport
+"Long queues at train ticket counters waste commuters' time.",Transport
+"Taxi fares are unpredictable and often too high during rush hours.",Transport
+"The bicycle-sharing program is poorly managed and underutilized.",Transport
+"City bus services need real-time tracking systems for efficiency.",Transport
+"The rural bus service needs expansion to cover more villages.",Transport
+"Old buses are causing high levels of vehicular pollution.",Transport
+"Overcrowding in metro stations causes inconvenience to passengers.",Transport
+"Trains often stop unexpectedly due to technical issues.",Transport
+"Night bus services are unavailable, causing problems for late commuters.",Transport
+"Bus drivers often skip routes during off-peak hours.",Transport
+"Railway platforms lack sufficient seating for passengers.",Transport
+"Transport fares are raised frequently without prior notice.",Transport
+"The bus frequency is too low, especially during peak hours.",Transport
+"Public transport lacks facilities for disabled passengers.",Transport
+"Illegal dumping of waste is polluting the river.",Environment
+"Noise pollution levels have been increasing near residential areas.",Environment
+"Deforestation is causing loss of wildlife in our region.",Environment
+"Recycling bins are not available in public areas.",Environment
+"Parks and green spaces are being converted into construction sites.",Environment
+"Factories near the river are releasing untreated waste.",Environment
+"Air pollution in urban areas is getting worse every year.",Environment
+"Illegal sand mining is destroying riverbeds.",Environment
+"The local park is littered with garbage and debris.",Environment
+"Wildlife habitats are being destroyed by urban expansion.",Environment
+"Noise levels near construction sites are unbearable during nights.",Environment
+"The local forest area is shrinking due to urban expansion.",Environment
+"Lack of tree plantation drives is worsening air quality.",Environment
+"Public beaches are littered with plastic waste and debris.",Environment
+"The city park needs more benches and recreational facilities.",Environment
+"The local lake is heavily polluted and smells bad.",Environment
+"Waste management in small towns is inefficient and irregular.",Environment
+"Industrial noise pollution is causing distress in nearby neighborhoods.",Environment
+"Local wildlife is endangered due to expanding agriculture.",Environment
+"Urban gardens are being replaced with construction projects.",Environment
+"The riverbank is eroding due to unchecked sand mining.",Environment
+"Overloaded garbage trucks spill waste on roads, creating a mess.",Environment
+"The local zoo needs better facilities for animals and visitors.",Environment
+"Public parks need more maintenance to prevent decay.",Environment
+"Factories emitting untreated gases are polluting nearby neighborhoods.",Environment
+"Forest fires are becoming frequent due to lack of preventive measures.",Environment
+"Seashores are filled with oil spills affecting marine life.",Environment
+"Roadside garbage dumping is increasing due to insufficient bins.",Environment
+"Waste segregation policies are not effectively implemented.",Environment
+"Residential areas near factories complain of poor air quality.",Environment
+"Classrooms in government schools are overcrowded.",Education
+"Teachers are often absent in rural schools, affecting studies.",Education
+"Libraries in schools are outdated and lack proper resources.",Education
+"Extracurricular activities need more funding and support.",Education
+"The quality of online education is poor due to connectivity issues.",Education
+"Scholarships for underprivileged students are insufficient.",Education
+"There is a lack of trained teachers for special needs children.",Education
+"Schools in rural areas lack basic infrastructure.",Education
+"The curriculum needs to be updated to include modern skills.",Education
+"Educational policies are not effectively implemented in schools.",Education
+"Government schools lack digital infrastructure for e-learning.",Education
+"Teachers in remote areas are underpaid and demotivated.",Education
+"The science labs in schools are outdated and lack equipment.",Education
+"There are insufficient hostels for students in higher education institutions.",Education
+"Financial aid for college students is difficult to access.",Education
+"Students have no access to career counseling programs.",Education
+"Internet connectivity in remote schools is unreliable.",Education
+"Many underprivileged children drop out due to financial constraints.",Education
+"More teachers need training in advanced digital tools.",Education
+"Students in government schools lack access to basic stationery.",Education
+"High tuition fees make education inaccessible to many students.",Education
+"Rural schools lack electricity, affecting evening classes.",Education
+"Special education schools are unavailable in small towns.",Education
+"Training programs for teachers are outdated and irrelevant.",Education
+"Student-teacher ratios in schools are unreasonably high.",Education
+"Government schools lack proper sanitation facilities for students.",Education
+"Parents complain about lack of extracurricular programs for children.",Education
+"Teachers in many schools are overburdened with administrative work.",Education
